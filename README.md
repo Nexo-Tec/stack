@@ -29,4 +29,4 @@ GitHub: https://github.com/
 Stackoverflow: https://stackoverflow.com/  
 VS Code: https://code.visualstudio.com/   
 
-+ Dezenas de outras bibliotecas, que iremos em breve atualizar
+E + Dezenas de outras bibliotecas, que iremos em breve atualizar
